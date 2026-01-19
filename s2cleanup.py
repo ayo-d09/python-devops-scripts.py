@@ -27,3 +27,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+python s3_cleanup.py --dry-run
