@@ -24,3 +24,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+python ec2_status.py
+python ec2_status.py --region eu-west-1
