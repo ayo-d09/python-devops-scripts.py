@@ -1,4 +1,3 @@
-
 # Python DevOps Scripts
 
 Simple Python CLI tools demonstrating DevOps-style automation using AWS SDK (boto3).
